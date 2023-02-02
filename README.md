@@ -5,4 +5,4 @@
 
 * Aula 3 Associação de Variáveis [Slide](https://github.com/ai2-education-fiep-turma-5/03-introducao_estatistica/blob/main/slides/aula3-associacoes.pdf)
 
-* Aula 4-5 Testes Paramétricos e Regras de Decisão [Notebook](https://github.com/ai2-education-fiep-turma-5/03-introducao_estatistica/blob/main/src/Estatistica_3.ipynb)
+* Aulas 4-5 Testes Paramétricos e Regras de Decisão [Notebook](https://github.com/ai2-education-fiep-turma-5/03-introducao_estatistica/blob/main/src/Estatistica_3.ipynb)
